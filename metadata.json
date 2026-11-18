@@ -1,0 +1,10 @@
+{
+  "name": "DeepGuard",
+  "description": "AI-Powered Deepfake Detection and Digital Identity Protection — live biometric face matching, image quality analysis, liveness verification, and explainable risk scoring.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
